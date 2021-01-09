@@ -7,4 +7,7 @@
   <li><a href="https://docs.anaconda.com/anaconda/user-guide/">User Guide(Navigator, Cheat Sheet..</a></li>
 </ul>
 
+## [Jupyter Notebok](https://jupyter.org/)
+
+
 ## Python3
