@@ -20,6 +20,8 @@
 
 
 ## Python3
+
+## [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/python-data-types/">Python Data Types</a></li>
+  <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a></li>
 </ul>
