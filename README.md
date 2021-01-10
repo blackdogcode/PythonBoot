@@ -19,7 +19,7 @@
 
 ## [Python 3](https://docs.python.org/3/)
 
-## [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
+### [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a></li>
 </ul>
