@@ -18,3 +18,6 @@
 
 
 ## Python3
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/python-data-types/">Python Data Types</a></li>
+</ul>
