@@ -21,5 +21,9 @@
 
 ### [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
 <ul>
-  <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a></li>
+  <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a>
+    <ul>
+      <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a></li>
+    </ul>
+  </li>
 </ul>
