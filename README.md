@@ -1,5 +1,7 @@
 ## References
 <ul>
+  <li><a href="https://docs.python.org/3/">Python3 Documentation</a></li>
+    
   <li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li>
   
   <li><a href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp">Python Course Material - Git Repostiroy</a></li>
