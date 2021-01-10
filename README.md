@@ -27,3 +27,9 @@
     </ul>
   </li>
 </ul>
+
+
+## QAs
+<ul>
+  <li><a href="https://stackoverflow.com/questions/3654830/why-are-there-no-and-operators-in-python">Why are there no ++ and --​ operators in Python?</a></li>
+</ul>
