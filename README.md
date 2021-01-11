@@ -28,6 +28,11 @@
   </li>
 </ul>
 
+### Exception Handling
+<ul>
+  <li><a href="https://docs.python.org/3.8/library/exceptions.html#exception-hierarchy">Exception Hierarchy</a></li>
+</ul>
+
 
 ## QAs
 <ul>
