@@ -30,6 +30,8 @@
       <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a></li>
     </ul>
   </li>
+  
+  <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a></li>
 </ul>
 
 ### [Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
