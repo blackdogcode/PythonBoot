@@ -31,7 +31,11 @@
 <ul>
   <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a>
     <ul>
-      <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a></li>
+      <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a>
+        <ul>
+          <li><a href="https://pyformat.info/">String Formatting</a></li>
+        </ul>
+      </li>
     </ul>
   </li>
   
