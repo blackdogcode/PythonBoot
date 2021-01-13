@@ -39,6 +39,8 @@
     </ul>
   </li>
   
+  <li><a href="https://www.geeksforgeeks.org/python-list/?ref=lbp">Python Lists</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a></li>
 </ul>
 
