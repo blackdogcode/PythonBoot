@@ -29,6 +29,8 @@
 
 ### [Python Data Types](https://www.geeksforgeeks.org/python-data-types/)
 <ul>
+  <li><a href="https://www.geeksforgeeks.org/type-isinstance-python/">type and isinstance in Python</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a>
     <ul>
       <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a>
