@@ -53,6 +53,12 @@
   <li><a href="https://www.geeksforgeeks.org/python-dictionary/?ref=lbp">Python Dictionary</a></li>
 </ul>
 
+### Functions
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/">Packing and Unpacking Arguments in Python</a></li>
+</ul>
+
+
 ### [Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
 <ul>
   <li><a href="https://docs.python.org/3.8/library/exceptions.html#exception-hierarchy">Exception Hierarchy</a></li>
