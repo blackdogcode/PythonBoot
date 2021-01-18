@@ -49,6 +49,8 @@
   <li><a href="https://www.geeksforgeeks.org/python-list/?ref=lbp">Python Lists</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/python-dictionary/?ref=lbp">Python Dictionary</a></li>
 </ul>
 
 ### [Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
