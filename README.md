@@ -2,7 +2,11 @@
 <ul>
   <li><a href="https://docs.python.org/3/">Python 3.9.1 documentation</a></li>
   
-  <li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a></li>
+  <li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a>
+    <ul>
+      <li><a href="https://google.github.io/styleguide/pyguide.html#s3.16-naming">Naming Guide</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://www.python.org/dev/peps/">Python PEP(Python Enhancement Proposal)s</a></li>
   
