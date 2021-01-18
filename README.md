@@ -13,10 +13,12 @@
   <li><a href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp">Python Course Material - Git Repostiroy</a></li>
 </ul>
 
+
 ## Materials
 <ul>
   <li><a href="https://www.geeksforgeeks.org/python-programming-language/">Python3 Geeks for Geeks</a></li>
 </ul>
+
 
 ## [Anaconda](https://www.anaconda.com/products/individual)
 <ul>
@@ -48,7 +50,11 @@
   
   <li><a href="https://www.geeksforgeeks.org/python-list/?ref=lbp">Python Lists</a></li>
   
-  <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a></li>
+  <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a>
+    <ul>
+      <li><a href="https://www.geeksforgeeks.org/unpacking-a-tuple-in-python/">Unpacking a Tuple in Python</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://www.geeksforgeeks.org/python-dictionary/?ref=lbp">Python Dictionary</a></li>
 </ul>
@@ -75,3 +81,6 @@
   
   <li><a href="https://www.geeksforgeeks.org/multiline-comments-in-python/">How to write multiline comment in python script</a></li>
 </ul>
+
+
+## Others
