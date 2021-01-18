@@ -86,3 +86,6 @@
 
 
 ## Others
+<ul>
+  <li><sa href="https://www.geeksforgeeks.org/garbage-collection-python/">Garbage Collection in Python</a></li>
+</ul>
