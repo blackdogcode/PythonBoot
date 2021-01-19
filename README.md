@@ -68,6 +68,9 @@
 </ul>
 
 ### Control Flow
+<ul>
+  <li><a href="https://www.geeksforgeeks.org/chaining-comparison-operators-python/?ref=lbp">Chaining comparison operators in Python</a></li>
+</ul>
 
 ### Functions
 <ul>
