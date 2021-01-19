@@ -1,5 +1,11 @@
 ## References
 <ul>
+  <li><strong>Oneline Judge Site for Python</strong>
+    <ul>
+      <li><a href="https://www.hackerrank.com/domains/python">HackRank Python Online Judge</a></li>
+    </ul>
+   </li>
+  
   <li><a href="https://docs.python.org/3/">Python 3.9.1 documentation</a></li>
   
   <li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a>
