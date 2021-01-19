@@ -70,6 +70,8 @@
 ### Control Flow
 <ul>
   <li><a href="https://www.geeksforgeeks.org/chaining-comparison-operators-python/?ref=lbp">Chaining comparison operators in Python</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/python-range-function/">Python range() function</a></li>
 </ul>
 
 ### Functions
