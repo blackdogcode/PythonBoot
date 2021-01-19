@@ -1,6 +1,6 @@
 ## References
 <ul>
-  <li><strong>Oneline Judge Site for Python</strong>
+  <li><strong>Oneline Judge Sites for Python</strong>
     <ul>
       <li><a href="https://www.hackerrank.com/domains/python">HackRank Python Online Judge</a></li>
     </ul>
