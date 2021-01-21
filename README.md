@@ -101,6 +101,8 @@
 
 ## QAs
 <ul>
+  <li><a href="https://t.ly/PDSW">Is Python call by reference or call by value?</a></li>
+  
   <li><a href="https://stackoverflow.com/questions/3654830/why-are-there-no-and-operators-in-python">Why are there no ++ and --​ operators in Python?</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/print-without-newline-python/">How to print without newline in Python?</a></li>
