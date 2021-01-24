@@ -56,7 +56,11 @@
     </ul>
   </li>
   
-  <li><a href="https://www.geeksforgeeks.org/python-list/?ref=lbp">Python Lists</a></li>
+  <li><a href="https://www.geeksforgeeks.org/python-list/?ref=lbp">Python Lists</a>
+    <ul>
+      <li><a href="https://t.ly/XTLJ">List Comprehension and Slicing</a></li>
+    </ul>
+  </li>
   
   <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a>
     <ul>
