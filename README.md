@@ -94,6 +94,8 @@
 
 ### Functions
 <ul>
+  <li><a href="https://docs.python.org/3/library/functions.html">Built-in Functions in Python</a></li>
+  
   <li><a href="https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/">Packing and Unpacking Arguments in Python</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/args-kwargs-python/">*args and **kwargs in Python</a></li>
