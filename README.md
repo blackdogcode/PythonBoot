@@ -24,6 +24,8 @@
 
 ## Materials
 <ul>
+  <li><a href="https://docs.python.org/3/tutorial/">The Python Tutorial</a></li>
+    
   <li><a href="https://www.geeksforgeeks.org/python-programming-language/">Python3 Geeks for Geeks</a></li>
 </ul>
 
