@@ -113,6 +113,12 @@
   <li><a href="https://en.wikipedia.org/wiki/Helper_class">Helper class</a></li>
 </ul>
 
+### Moduels and Packages
+<ul>
+  <li><a href="https://t.ly/ddEB">string</a></li>
+</ul>
+
+
 ### [Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
 <ul>
   <li><a href="https://docs.python.org/3.8/library/exceptions.html#exception-hierarchy">Exception Hierarchy</a></li>
