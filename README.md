@@ -140,6 +140,8 @@
   <li><a href="https://www.geeksforgeeks.org/print-without-newline-python/">How to print without newline in Python?</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/multiline-comments-in-python/">How to write multiline comment in python script</a></li>
+  
+  <li><a href="https://www.geeksforgeeks.org/difference-operator-python/">Difference between == and is operator</a></li>
 </ul>
 
 
