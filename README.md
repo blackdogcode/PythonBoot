@@ -102,6 +102,8 @@
         <li><a href="https://t.ly/ZfwE">filter() in python</a></li>
       </ul>
    </li>
+   
+   <li><a href="https://t.ly/wEtY">Scope Resolution in Python | LEGB Rule</a></li>
 </ul>
 
 ### Class and Objects
