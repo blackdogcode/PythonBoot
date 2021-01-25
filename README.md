@@ -49,8 +49,12 @@
     <ul>
       <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a>
         <ul>
-          <li><a href="https://www.geeksforgeeks.org/python-output-formatting/">Python | Output Formatting</a></li>
-          <li><a href="https://pyformat.info/">String Formatting</a></li>
+          <li><a href="https://www.geeksforgeeks.org/python-output-formatting/">Python | Output Formatting</a>
+            <ul>
+              <li><a href="https://t.ly/2rkx">Using % and .format()/a></li>
+              <li><a href="https://t.ly/Rp3e">f-strings</a></li>
+            </ul>
+          </li>
         </ul>
       </li>
     </ul>
