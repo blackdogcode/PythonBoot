@@ -52,7 +52,7 @@
           <li><a href="https://www.geeksforgeeks.org/python-output-formatting/">Python | Output Formatting</a>
             <ul>
               <li><a href="https://t.ly/2rkx">Using % and .format()</a></li>
-              <li><a href="https://t.ly/Rp3e">f-strings</a></li>
+              <li><a href="https://t.ly/iebt">f-strings: Literal String Interpolation</a></li>
             </ul>
           </li>
         </ul>
