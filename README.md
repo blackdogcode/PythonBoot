@@ -115,7 +115,11 @@
 
 ### Moduels and Packages
 <ul>
-  <li><a href="https://t.ly/ddEB">string</a></li>
+  <li><a href="https://t.ly/ddEB">string</a>
+    <ul>
+      <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">string methods</a></li>
+    </ul>
+  </li>
 </ul>
 
 
