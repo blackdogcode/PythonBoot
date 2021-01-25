@@ -101,6 +101,9 @@
 </ul>
 
 ### Class and Objects
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Helper_class">Helper class</a></li>
+</ul>
 
 ### [Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
 <ul>
