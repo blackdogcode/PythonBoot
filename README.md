@@ -92,11 +92,11 @@
   
   <li><a href="https://www.geeksforgeeks.org/args-kwargs-python/">*args and **kwargs in Python</a></li>
   
-  <ul>
-    <li><a href="https://t.ly/QEAZ">Python Lambda Functions</a></li>
-    <li><a href="https://t.ly/NeLB">Python map() function</a></li>
-    <li><a href="https://t.ly/ZfwE">filter() in python</a></li>
-  </ul>
+   <li><a href="https://t.ly/QEAZ">Python Lambda Functions</a></li>
+   
+   <li><a href="https://t.ly/NeLB">Python map() function</a></li>
+   
+   <li><a href="https://t.ly/ZfwE">filter() in python</a></li>
 </ul>
 
 ### Class and Objects
