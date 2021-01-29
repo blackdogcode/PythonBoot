@@ -53,13 +53,13 @@ def mark_board(num, marker, board):
         return -1
     else:
         SEL.add(num)
-        board[ROW[num-1]][COL[num-1]] = marker
+        board[ROW[num - 1]][COL[num - 1]] = marker
         return 0
 
 
 def check_win(num, board):
-    i = ROW[num-1]
-    j = COL[num-1]
+    i = ROW[num - 1]
+    j = COL[num - 1]
     chk = []
     # horizontal line
     for marker in board[i]:
@@ -86,32 +86,23 @@ def check_win(num, board):
 if __name__ == '__main__':
     display_game_info()
     game_board = create_board()
-    player1_mark, player2_mark = create_player()
+    player_marks = create_player()
     display_board(game_board)
 
-    player_turn = True
+    player_turn = 0
     while True:
         if len(SEL) == len(NUMPAD):
-            print('Draw Game') 
+            print('Draw Game')
             break
 
-        player1_num = None
-        player2_num = None
         try:
-            if player_turn:
-                player1_num = int(input('Player1 Choice: '))
-                mark_board(player1_num, player1_mark, game_board)
-                display_board(game_board)
-                if check_win(player1_num, game_board):
-                    print('Player1 Win!')
-                    break
-            else:
-                player2_num = int(input('Player2 Choice: '))
-                mark_board(player2_num, player2_mark, game_board)
-                display_board(game_board)
-                if check_win(player2_num, game_board):
-                    print('Player2 Win!')
-                    break
-            player_turn = not player_turn
+            player_num = int(input(f'Player{player_turn + 1} Choice: '))
+            player_mark = player_marks[player_turn]
+            mark_board(player_num, player_mark, game_board)
+            display_board(game_board)
+            if check_win(player_num, game_board):
+                print(f'Player{player_turn + 1} Win!')
+                break
+            player_turn = (player_turn + 1) % 2
         except ValueError:
-            print('Please type numeric number')
+            print('Please type integer number')
