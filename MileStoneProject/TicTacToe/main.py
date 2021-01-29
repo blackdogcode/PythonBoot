@@ -19,21 +19,21 @@ def display_game_info():
     print('-' * 100)
 
 
-def create_player():
-    while True:
-        marks = ['O', 'X']
-        player1_mark = input("Player1 Choose the mark 'O' or 'X': ")
-        if player1_mark not in marks:
-            print(f'Invalid Mark: {player1_mark} please insert valid mark')
-        else:
-            marks.remove(player1_mark)
-            player2_mark = marks.pop()
-            return player1_mark, player2_mark
-
-
 def create_board():
     SEL.clear()
     return [['7', '8', '9'], ['4', '5', '6'], ['1', '2', '3']]
+
+
+def create_player():
+    while True:
+        marks = ['O', 'X']
+        player1_choice = input("Player1 Choose the mark 'O' or 'X': ")
+        if player1_choice not in marks:
+            print(f'Invalid Mark: {player1_choice} please try again')
+        else:
+            marks.remove(player1_choice)
+            player2_choice = marks.pop()
+            return player1_choice, player2_choice
 
 
 def display_board(board):
