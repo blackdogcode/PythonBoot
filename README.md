@@ -153,8 +153,6 @@
 
 
 ## Others
-<ul>
-  <li><a href="https://www.geeksforgeeks.org/python-docstrings/">Python Docstrings</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/garbage-collection-python/">Garbage Collection in Python</a></li>
-</ul>
+- [Python Docstrings](https://www.geeksforgeeks.org/python-docstrings/)
+- [Garbage Collection in Python](https://www.geeksforgeeks.org/garbage-collection-python/)
+- [__name__ (A Special variable)](https://t.ly/1Wiz)
