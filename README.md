@@ -40,6 +40,8 @@
 
 ## [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#)
 <ul>
+  <li><a href="https://t.ly/fsfD">Markdown Guide</a></li>
+  
   <li><a href="https://ipython.org/">IPython</a></li>
 </ul>
 
