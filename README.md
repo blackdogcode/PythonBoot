@@ -110,7 +110,7 @@
    <li><a href="https://t.ly/wEtY">Scope Resolution in Python | LEGB Rule</a></li>
 </ul>
 
-### [Class and Objects](https://t.ly/utPx)
+### [OOP](https://t.ly/vJUW)
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Helper_class">Helper class</a></li>
 </ul>
