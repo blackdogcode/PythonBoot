@@ -39,6 +39,9 @@
 
 
 ## [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#)
+<ul>
+  <li><a href="https://ipython.org/">IPython</a></li>
+</ul>
 
 
 ## [Python 3](https://docs.python.org/3/)
