@@ -116,9 +116,9 @@
 </ul>
 
 ### [OOP](https://t.ly/vJUW)
-<ul>
-  <li><a href="https://en.wikipedia.org/wiki/Helper_class">Helper class</a></li>
-</ul>
+- [Data Hiding and Object Printing](https://t.ly/QTdD)
+- [Helper class](https://t.ly/XiXM)
+
 
 ### Moduels and Packages
 <ul>
