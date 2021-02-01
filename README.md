@@ -23,11 +23,9 @@
 
 
 ## Materials
-<ul>
-  <li><a href="https://docs.python.org/3/tutorial/">The Python Tutorial</a></li>
-    
-  <li><a href="https://www.geeksforgeeks.org/python-programming-language/">Python3 Geeks for Geeks</a></li>
-</ul>
+- [The Python Tutorial](https://docs.python.org/3/tutorial/)
+
+- [Python3 Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
 
 
 ## [Anaconda](https://www.anaconda.com/products/individual)
