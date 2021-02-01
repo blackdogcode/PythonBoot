@@ -105,6 +105,7 @@
   - [Python map() function](https://t.ly/NeLB)
   - [filter() in python](https://t.ly/ZfwE)
 - [Scope Resolution in Python | LEGB Rule](https://t.ly/wEtY)
+- [Passing function as an argument](https://t.ly/tkqe)
 
 ### [OOP](https://t.ly/vJUW)
 - [Data Hiding and Object Printing](https://t.ly/QTdD)
