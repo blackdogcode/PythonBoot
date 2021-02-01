@@ -105,8 +105,8 @@
   - [Python map() function](https://t.ly/NeLB)
   - [filter() in python](https://t.ly/ZfwE)
 - [Scope Resolution in Python | LEGB Rule](https://t.ly/wEtY)
-- [Passing function as an argument](https://t.ly/tkqe)
 - [First-class function](https://t.ly/sM9h)
+  - [Passing function as an argument](https://t.ly/tkqe)
 
 
 ### [OOP](https://t.ly/vJUW)
