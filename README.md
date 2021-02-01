@@ -98,22 +98,17 @@
 </ul>
 
 ### Functions
-<ul>
-  <li><a href="https://docs.python.org/3/library/functions.html">Built-in Functions in Python</a></li>
+- [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
+
+- [Packing and Unpacking Arguments in Python](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
   
-  <li><a href="https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/">Packing and Unpacking Arguments in Python</a></li>
+- [\*args and \*\*kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
   
-  <li><a href="https://www.geeksforgeeks.org/args-kwargs-python/">*args and **kwargs in Python</a></li>
-  
-   <li><a href="https://t.ly/QEAZ">Python Lambda Functions</a>
-      <ul>
-        <li><a href="https://t.ly/NeLB">Python map() function</a></li>
-        <li><a href="https://t.ly/ZfwE">filter() in python</a></li>
-      </ul>
-   </li>
-   
-   <li><a href="https://t.ly/wEtY">Scope Resolution in Python | LEGB Rule</a></li>
-</ul>
+- [Python Lambda Functions](https://t.ly/QEAZ)
+  - [Python map() function](https://t.ly/NeLB)
+  - [filter() in python](https://t.ly/ZfwE)
+ 
+- [Scope Resolution in Python | LEGB Rule](https://t.ly/wEtY)
 
 ### [OOP](https://t.ly/vJUW)
 - [Data Hiding and Object Printing](https://t.ly/QTdD)
