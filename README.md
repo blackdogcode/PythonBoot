@@ -23,10 +23,9 @@
 
 
 ## Materials
-- [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Python3 Geeks for Geeks](https://t.ly/TkmL)
 
-- [Python3 Geeks for Geeks](https://www.geeksforgeeks.org/python-programming-language/)
-
+- [RealPython](https://t.ly/7HTX)
 
 ## [Anaconda](https://www.anaconda.com/products/individual)
 <ul>
