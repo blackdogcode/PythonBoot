@@ -99,15 +99,11 @@
 
 ### Functions
 - [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
-
 - [Packing and Unpacking Arguments in Python](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
-  
 - [\*args and \*\*kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
-  
 - [Python Lambda Functions](https://t.ly/QEAZ)
   - [Python map() function](https://t.ly/NeLB)
   - [filter() in python](https://t.ly/ZfwE)
- 
 - [Scope Resolution in Python | LEGB Rule](https://t.ly/wEtY)
 
 ### [OOP](https://t.ly/vJUW)
