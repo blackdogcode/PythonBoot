@@ -1,5 +1,7 @@
 ## References
 - [PEP 0 -- Index of Python Enhancement Proposals](https://t.ly/lG5V)
+  - [PEP 8 -- Style Guide for Python Code](https://t.ly/aXbd)
+    - [How to Write Beautiful Python Code With PEP 8](https://t.ly/r5Ke)
 
 <ul>
   <li><strong>Oneline Judge Sites for Python</strong>
