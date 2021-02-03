@@ -108,7 +108,7 @@
 - [First-class function](https://t.ly/sM9h)
   - [Passing function as an argument](https://t.ly/tkqe)
 
-
+<hr>
 ### [OOP - Object Oriented Programming](https://t.ly/qncE)
 - [Data Hiding and Object Printing](https://t.ly/QTdD)
   - [Private Variables in Python](https://t.ly/flme)
