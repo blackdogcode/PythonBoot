@@ -105,7 +105,7 @@
   - [Passing function as an argument](https://t.ly/tkqe)
 
 
-### [OOP](https://t.ly/vJUW)
+### [OOP - Object Oriented Programming](https://t.ly/qncE)
 - [Data Hiding and Object Printing](https://t.ly/QTdD)
   - [Private Variables in Python](https://t.ly/flme)
 - [Helper class](https://t.ly/XiXM)
