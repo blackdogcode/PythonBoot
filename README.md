@@ -113,6 +113,7 @@
 - [Data Hiding and Object Printing](https://t.ly/QTdD)
   - [Private Variables in Python](https://t.ly/flme)
 - [Helper class](https://t.ly/XiXM)
+- [Abstract Classes in Python](https://t.ly/xTHa)
 
 
 ### Moduels and Packages
