@@ -1,15 +1,11 @@
 ## References
+- **Oneline Judge Sites for Python**
+  - [HackRank Python Online Judge](https://t.ly/fsYV)
 - [PEP 0 -- Index of Python Enhancement Proposals](https://t.ly/lG5V)
   - [PEP 8 -- Style Guide for Python Code](https://t.ly/aXbd)
     - [How to Write Beautiful Python Code With PEP 8](https://t.ly/r5Ke)
 
 <ul>
-  <li><strong>Oneline Judge Sites for Python</strong>
-    <ul>
-      <li><a href="https://www.hackerrank.com/domains/python">HackRank Python Online Judge</a></li>
-    </ul>
-   </li>
-  
   <li><a href="https://docs.python.org/3/">Python 3.9.1 documentation</a></li>
   
   <li><a href="https://www.python.org/dev/peps/pep-0008/">PEP 8 -- Style Guide for Python Code</a></li>
