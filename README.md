@@ -80,6 +80,7 @@
   <li><a href="https://www.geeksforgeeks.org/python-sets/">Python Sets</a></li>
 </ul>
 
+---
 ### Control Flow
 <ul>
   <li><a href="https://www.geeksforgeeks.org/chaining-comparison-operators-python/?ref=lbp">Chaining comparison operators in Python</a></li>
@@ -93,6 +94,7 @@
   <li><a href="https://www.geeksforgeeks.org/zip-in-python/">zip() in Python</a></li>
 </ul>
 
+---
 ### Functions
 - [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
 - [Packing and Unpacking Arguments in Python](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
@@ -111,7 +113,7 @@
 - [Helper class](https://t.ly/XiXM)
 - [Abstract Classes in Python](https://t.ly/xTHa)
 
-
+---
 ### Moduels and Packages
 <ul>
   <li><a href="https://t.ly/ddEB">string</a>
@@ -121,12 +123,13 @@
   </li>
 </ul>
 
-
+---
 ### [Exception Handling](https://www.geeksforgeeks.org/python-exception-handling/?ref=lbp)
 <ul>
   <li><a href="https://docs.python.org/3.8/library/exceptions.html#exception-hierarchy">Exception Hierarchy</a></li>
 </ul>
 
+---
 ### [File Handling](https://www.geeksforgeeks.org/file-handling-python/?ref=lbp)
 
 
