@@ -17,8 +17,6 @@
   </li>
   
   <li><a href="https://www.python.org/dev/peps/">Python PEP(Python Enhancement Proposal)s</a></li>
-  
-  <li><a href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp">Python Course Material - Git Repostiroy</a></li>
 </ul>
 
 
