@@ -23,8 +23,8 @@
 
 
 ## Materials
-- [Geeks for Geeks](https://t.ly/TkmL)
-- [RealPython](https://t.ly/7HTX)
+- [Geeks for Geeks](https://t.ly/TkmL), [RealPython](https://t.ly/7HTX)
+- [PyPI - Python Package Index](https://t.ly/awew)
 
 ## [Anaconda](https://www.anaconda.com/products/individual)
 <ul>
