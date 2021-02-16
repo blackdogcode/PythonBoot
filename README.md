@@ -5,21 +5,11 @@
   - [PEP 8 -- Style Guide for Python Code](https://t.ly/aXbd)
     - [How to Write Beautiful Python Code With PEP 8](https://t.ly/r5Ke)
 - [pip documentation](https://t.ly/8dS9)
-
-<ul>
-  <li><a href="https://docs.python.org/3/">Python 3.9.1 documentation</a></li>
-  
-  <li><a href="https://www.python.org/dev/peps/pep-0008/">PEP 8 -- Style Guide for Python Code</a></li>
-  
-  <li><a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a>
-    <ul>
-      <li><a href="https://google.github.io/styleguide/pyguide.html#s3.16-naming">Naming Guide</a></li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.python.org/dev/peps/">Python PEP(Python Enhancement Proposal)s</a></li>
-</ul>
-
+- [Python 3.9.1 documentation](https://docs.python.org/3)
+- [Python PEP(Python Enhancement Proposal)s](https://www.python.org/dev/peps)
+- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+  - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+    - [Naming Guide](https://google.github.io/styleguide/pyguide.html#s3.16-naming)
 
 ## Materials
 - [Geeks for Geeks](https://t.ly/TkmL) and [RealPython](https://t.ly/7HTX)
