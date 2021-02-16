@@ -4,6 +4,7 @@
 - [PEP 0 -- Index of Python Enhancement Proposals](https://t.ly/lG5V)
   - [PEP 8 -- Style Guide for Python Code](https://t.ly/aXbd)
     - [How to Write Beautiful Python Code With PEP 8](https://t.ly/r5Ke)
+- [pip documentation](https://t.ly/8dS9)
 
 <ul>
   <li><a href="https://docs.python.org/3/">Python 3.9.1 documentation</a></li>
@@ -21,7 +22,7 @@
 
 
 ## Materials
-- [Geeks for Geeks](https://t.ly/TkmL), [RealPython](https://t.ly/7HTX)
+- [Geeks for Geeks](https://t.ly/TkmL) and [RealPython](https://t.ly/7HTX)
 - [PyPI - Python Package Index](https://t.ly/awew)
 
 ## [Anaconda](https://www.anaconda.com/products/individual)
