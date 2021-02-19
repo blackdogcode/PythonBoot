@@ -37,40 +37,18 @@
 
 ---
 ### [Python Data Strctures](https://t.ly/GSrU)
-<ul>
-  <li><a href="https://www.geeksforgeeks.org/type-isinstance-python/">type and isinstance in Python</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/python-strings/">Python String</a>
-    <ul>
-      <li><a href="https://docs.python.org/3/library/stdtypes.html#string-methods">String Methods</a>
-        <ul>
-          <li><a href="https://www.geeksforgeeks.org/python-output-formatting/">Python | Output Formatting</a>
-            <ul>
-              <li><a href="https://www.python.org/dev/peps/pep-3101/">Using % and .format()</a></li>
-              <li><a href="https://t.ly/iebt">f-strings: Literal String Interpolation</a></li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.geeksforgeeks.org/python-list/?ref=lbp">Python Lists</a>
-    <ul>
-      <li><a href="https://t.ly/XTLJ">List Comprehension and Slicing</a></li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.geeksforgeeks.org/python-tuples/?ref=lbp">Python Tuples</a>
-    <ul>
-      <li><a href="https://www.geeksforgeeks.org/unpacking-a-tuple-in-python/">Unpacking a Tuple in Python</a></li>
-    </ul>
-  </li>
-  
-  <li><a href="https://www.geeksforgeeks.org/python-dictionary/?ref=lbp">Python Dictionary</a></li>
-  
-  <li><a href="https://www.geeksforgeeks.org/python-sets/">Python Sets</a></li>
-</ul>
+- [type and isinstance in Python](https://t.ly/m7cr)
+- [Python String](https://t.ly/5C82)
+  - [String Methods](https://t.ly/fGu9)
+    - [Python | Output Formatting](https://t.ly/eOtn)
+     - [Using % and .format()](https://t.ly/d1N7)
+     - [f-strings: Literal String Interpolation](https://t.ly/iebt)
+- [Python Lists](https://t.ly/9t27)
+  - [List Comprehension and Slicing](https://t.ly/XTLJ)
+- [Python Tuples](https://t.ly/XvpL)
+  - [Unpacking a Tuple in Python](https://t.ly/k794)
+- [Python Dictionary](https://t.ly/Hnp8)
+- [Python Sets](https://t.ly/05H3)
 
 ---
 ### Control Flow
