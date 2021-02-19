@@ -32,9 +32,10 @@
 
 
 ## [Python 3](https://docs.python.org/3/)
-### Basics
+### Python Basics
 - [How to Run Your Python Scripts](https://t.ly/S60f)
 
+---
 ### [Python Data Strctures](https://t.ly/GSrU)
 <ul>
   <li><a href="https://www.geeksforgeeks.org/type-isinstance-python/">type and isinstance in Python</a></li>
