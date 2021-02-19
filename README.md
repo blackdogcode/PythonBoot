@@ -137,6 +137,7 @@
 
 
 ## Others
+- [The ways of run Python Scripts](https://t.ly/S60f)
 - [Python Docstrings](https://www.geeksforgeeks.org/python-docstrings/)
 - [Garbage Collection in Python](https://www.geeksforgeeks.org/garbage-collection-python/)
 - [\_\_name\_\_(A Special variable)](https://t.ly/1Wiz)
