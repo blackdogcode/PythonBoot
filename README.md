@@ -86,7 +86,7 @@
 ---
 ### Functions
 - [Defining Main Functions](https://t.ly/ttik)
-  - [__name__ (A Special variable)](https://t.ly/R9ZQ)
+  - [\_\_name\_\_(A Special variable)](https://t.ly/R9ZQ)
 - [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
 - [Packing and Unpacking Arguments in Python](https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/)
 - [\*args and \*\*kwargs in Python](https://www.geeksforgeeks.org/args-kwargs-python/)
