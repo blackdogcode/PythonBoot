@@ -77,6 +77,7 @@
 - [Scope Resolution in Python | LEGB Rule](https://t.ly/wEtY)
 - [First-class function](https://t.ly/sM9h)
   - [Passing function as an argument](https://t.ly/tkqe)
+- [Primer on Python Decorators](https://t.ly/cCgd)
 
 ---
 ### [OOP - Object Oriented Programming](https://t.ly/qncE)
