@@ -114,5 +114,6 @@
 - [\_\_name\_\_(A Special variable)](https://t.ly/1Wiz)
 - [Shebang (Unix)](https://t.ly/BltR)
 
+
 ## Tips
 - [system file removed after sudo apt-get remove python](https://t.ly/ZdMS)
