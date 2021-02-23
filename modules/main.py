@@ -1,16 +1,19 @@
-import hello_python
+import demo
 
 import importlib
 import runpy
 
 if __name__ == '__main__':
-    print('Hello World')
+    message = 'Hello Python3!'
+    print(message)
+    message = demo.process_data(message)
+    print(message)
 
     # https://docs.python.org/3/library/importlib.html
-    importlib.reload(hello_python)
+    importlib.reload(demo)
 
     # https://docs.python.org/3/library/runpy.html
-    runpy.run_module(mod_name='hello_python')
-    runpy.run_path(path_name='hello_python.py')
+    runpy.run_module(mod_name='demo')
+    runpy.run_path(path_name='demo.py')
 
-    exec(open('hello_python.py').read())
+    exec(open('demo.py').read())
