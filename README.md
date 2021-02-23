@@ -15,26 +15,11 @@
 - [Geeks for Geeks](https://t.ly/TkmL) and [RealPython](https://t.ly/7HTX)
 - [PyPI - Python Package Index](https://t.ly/awew)
 
-## [Anaconda](https://www.anaconda.com/products/individual)
-<ul>
-  <li><a href="https://docs.anaconda.com/anaconda/install/linux/">Installaition on Linux</a></li>
-  
-  <li><a href="https://docs.anaconda.com/anaconda/user-guide/">User Guide(Navigator, Cheat Sheet..)</a></li>
-</ul>
-
-
-## [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#)
-<ul>
-  <li><a href="https://t.ly/fsfD">Markdown Guide</a></li>
-  
-  <li><a href="https://ipython.org/">IPython</a></li>
-</ul>
-
 
 ## [Python 3](https://docs.python.org/3/)
 - [What Can I Do With Python?](https://t.ly/NgBb)
 - [How to Run Your Python Scripts](https://t.ly/S60f)
-  - [Python Interpreters](https://t.ly/QM3E)
+  - [Most Pppular of Python Interpreters](https://t.ly/QM3E)
 
 ---
 ### [Python Data Strctures](https://t.ly/GSrU)
