@@ -34,6 +34,7 @@
 ## [Python 3](https://docs.python.org/3/)
 - [What Can I Do With Python?](https://t.ly/NgBb)
 - [How to Run Your Python Scripts](https://t.ly/S60f)
+  - [Python Interpreters](https://t.ly/QM3E)
 
 ---
 ### [Python Data Strctures](https://t.ly/GSrU)
