@@ -3,7 +3,8 @@ import demo
 import importlib
 import runpy
 
-if __name__ == '__main__':
+
+def main():
     message = 'Hello Python3!'
     print(message)
     message = demo.process_data(message)
@@ -17,3 +18,8 @@ if __name__ == '__main__':
     runpy.run_path(path_name='demo.py')
 
     exec(open('demo.py').read())
+
+
+if __name__ == '__main__':
+    main()
+    
