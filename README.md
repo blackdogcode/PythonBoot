@@ -20,6 +20,7 @@
 - [What Can I Do With Python?](https://t.ly/NgBb)
 - [How to Run Your Python Scripts](https://t.ly/S60f)
   - [Most Pppular of Python Interpreters](https://t.ly/QM3E)
+- [Basic Data Types](https://t.ly/GqGC)
 
 ---
 ### [Python Data Strctures](https://t.ly/GSrU)
