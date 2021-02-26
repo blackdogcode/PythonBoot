@@ -36,6 +36,7 @@
   - [Unpacking a Tuple in Python](https://t.ly/k794)
 - [Python Dictionary](https://t.ly/Hnp8)
 - [Python Sets](https://t.ly/05H3)
+- [Python Type Checking](https://t.ly/b1Mg)
 
 ---
 ### Control Flow
