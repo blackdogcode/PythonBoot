@@ -11,10 +11,7 @@
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
     - [Naming Guide](https://google.github.io/styleguide/pyguide.html#s3.16-naming)
 
-## Materials
-- [Geeks for Geeks](https://t.ly/TkmL) and [RealPython](https://t.ly/7HTX)
-- [PyPI - Python Package Index](https://t.ly/awew)
-
+## [Pythonic Code](https://t.ly/xudQ)
 
 ## [Python 3](https://docs.python.org/3/)
 - [What Can I Do With Python?](https://t.ly/NgBb)
