@@ -11,9 +11,6 @@
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
     - [Naming Guide](https://google.github.io/styleguide/pyguide.html#s3.16-naming)
 
-## [Pythonic Code](https://t.ly/xudQ)
-- [Writing Comments in Python](https://t.ly/7jiP)
-
 
 ## [Python 3](https://docs.python.org/3/)
 - [What Can I Do With Python?](https://t.ly/NgBb)
