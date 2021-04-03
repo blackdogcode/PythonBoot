@@ -28,20 +28,20 @@ if __name__ == "__main__":
     print_treasure()
     print(f'Welcome to Treasure Island.\nYour mission is to find the treasure.')
 
-    direction = input('left or right?\n--> ')
+    direction = input('You\'re at a cross road. Where do you want to go? Type "left" or "right" \n').lower()
     if direction != 'left':
         sys.exit('Fall into a hole.\nGame Over.')
 
-    movement = input('swim or wait?:\n--> ')
+    movement = input('You\'ve come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across. \n').lower()
     if movement != 'swim':
         sys.exit('Attacked by trout.\nGame Over.')
 
-    door = input('Which door, Red, Blue, Yellow?\n--> ')
-    if door == 'Yellow':
+    door = input("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose? \n").lower()
+    if door == 'yellow':
         print('You Win!')
-    elif door == 'Red':
+    elif door == 'red':
         sys.exit('Burned by fire.\nGame Over.')
-    elif door == 'Blue':
+    elif door == 'blue':
         sys.exit('Eaten by beasts.\nGame Over.')
     else:
         sys.exit('Game Over.')
