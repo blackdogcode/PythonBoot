@@ -1,4 +1,4 @@
-# Python Rounding Reference: https://realpython.com/python-rounding/
+# Rounding Strategy Reference: https://realpython.com/python-rounding/
 
 if __name__ == '__main__':
     print(f'Welcome to the tip calculator')
