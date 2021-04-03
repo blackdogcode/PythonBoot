@@ -1,5 +1,6 @@
-# ASCII ART: https://ascii.co.uk/art
+import sys
 
+# ASCII ART: https://ascii.co.uk/art
 def print_treasure():
     print(f'*******************************************************************************')
     print(f'          |                   |                  |                     |       ')
@@ -25,3 +26,22 @@ def print_treasure():
 
 if __name__ == "__main__":
     print_treasure()
+    print(f'Welcome to Treasure Island.\nYour mission is to find the treasure.')
+
+    direction = input('left or right?\n--> ')
+    if direction != 'left':
+        sys.exit('Fall into a hole.\nGame Over.')
+
+    movement = input('swim or wait?:\n--> ')
+    if movement != 'swim':
+        sys.exit('Attacked by trout.\nGame Over.')
+
+    door = input('Which door, Red, Blue, Yellow?\n--> ')
+    if door == 'Yellow':
+        print('You Win!')
+    elif door == 'Red':
+        sys.exit('Burned by fire.\nGame Over.')
+    elif door == 'Blue':
+        sys.exit('Eaten by beasts.\nGame Over.')
+    else:
+        sys.exit('Game Over.')
