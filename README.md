@@ -10,7 +10,7 @@
 - [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
     - [Naming Guide](https://google.github.io/styleguide/pyguide.html#s3.16-naming)
-
+- [ASK Python](https://t.ly/jzVh)
 
 ## [Python 3](https://docs.python.org/3/)
 - [What Can I Do With Python?](https://t.ly/NgBb)
