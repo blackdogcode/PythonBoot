@@ -20,15 +20,11 @@ if __name__ == "__main__":
 
     random.seed()
     for i in range(0, cnt_letters):
-        idx = random.randint(0, len(letters)-1)
-        password.append(letters[idx])
+        password.append(random.choice(letters))
     for j in range(0, cnt_symbols):
-        idx = random.randint(0, len(symbols)-1)
-        password.append(symbols[idx])
+        password.append(random.choice(symbols))
     for k in range(0, cnt_numbers):
-        idx = random.randint(0, len(numbers)-1)
-        password.append(numbers[idx])
-
+        password.append(random.choice(numbers))
     cnt_shuffle = random.randint(1, 100)
     for m in range(0, cnt_shuffle):
         random.shuffle(password)
