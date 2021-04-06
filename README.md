@@ -46,6 +46,8 @@
   <li><a href="https://www.geeksforgeeks.org/python-range-function/">Python range() function</a></li>
   
   <li><a href="https://www.geeksforgeeks.org/zip-in-python/">zip() in Python</a></li>
+  
+  <li><a href="https://t.ly/kxFm">while Loops (Indefinite Iteration)</a></li>
 </ul>
 
 ---
