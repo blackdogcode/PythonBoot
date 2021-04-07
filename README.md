@@ -38,6 +38,7 @@
 ### Control Flow
 - [Conditional Statements: if-elif-else](https://t.ly/AJfr)
 - [while Loops (Indefinite Iteration)](https://t.ly/kxFm)
+- [for Loops (Definite Iteration)](https://t.ly/D67x)
 
 ---
 ### [Functions](https://t.ly/snxT)
