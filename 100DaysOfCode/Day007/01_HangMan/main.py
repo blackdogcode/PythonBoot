@@ -8,7 +8,7 @@ if __name__ == "__main__":
     print(hangman_art.logo)
 
     chosen_word = random.choice(hangman_word.word_list)
-    print(chosen_word)
+    # print(chosen_word)
 
     finish = 0
     status = len(hangman_art.stages)-1
