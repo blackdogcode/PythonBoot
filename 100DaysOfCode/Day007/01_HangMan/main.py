@@ -20,8 +20,11 @@ if __name__ == "__main__":
         print(hangman_art.stages[status])
         if status == finish:
             sys.exit(0)
-        letter = input('Guess a letter: ')
-        if letter in user_letters:
+        letter = input('Guess a letter: ').lower()
+        if len(letter) != 1 or not letter.isalpha():
+            print(f'Please type a alphabet letter')
+            continue
+        elif letter in user_letters:
             print(f'Already chosen, please type other letter')
             continue
         elif letter in chosen_word:
