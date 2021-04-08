@@ -21,7 +21,7 @@ if __name__ == "__main__":
         print(hangman_art.stages[status])
 
         if status == finish:
-            sys.exit("Oops! You Lose. Try Again :)")
+            sys.exit(f"Oops! the word was {chosen_word}. Try Again :)")
 
         letter = input('Guess a letter: ').lower()
         if len(letter) != 1 or not letter.isalpha():
