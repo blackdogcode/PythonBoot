@@ -2,8 +2,14 @@
 import hangman_art
 import hangman_word
 
+import os
 import sys
 import random
+
+
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
 
 if __name__ == "__main__":
     print(hangman_art.logo)
@@ -41,6 +47,8 @@ if __name__ == "__main__":
         else:
             user_letters.append(letter)
             status -= 1
+
+        clear()
         print(''.join(masked_word))
 
     print('Congratulation You Win! :)')
