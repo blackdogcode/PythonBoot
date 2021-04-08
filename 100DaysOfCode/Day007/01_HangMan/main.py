@@ -19,8 +19,10 @@ if __name__ == "__main__":
     user_letters = []
     while mask in masked_word:
         print(hangman_art.stages[status])
+
         if status == finish:
-            sys.exit(0)
+            sys.exit("Oops! You Lose. Try Again :)")
+
         letter = input('Guess a letter: ').lower()
         if len(letter) != 1 or not letter.isalpha():
             print(f'Please type a alphabet letter')
@@ -40,3 +42,5 @@ if __name__ == "__main__":
             user_letters.append(letter)
             status -= 1
         print(''.join(masked_word))
+
+    print('Congratulation You Win! :)')
