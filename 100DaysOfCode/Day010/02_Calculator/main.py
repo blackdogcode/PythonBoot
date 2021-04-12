@@ -1,18 +1,18 @@
 import art
 
+def addition(a, b): return a+b
+def subtract(a, b): return a-b
+def multiply(a, b): return a*b
+def division(a, b): return a/b
 
-def calculator(operation, number_a, number_b):
-    if operation == '+':
-        return number_a + number_b
-    elif operation == '-':
-        return number_a - number_b
-    elif operation == '*':
-        return number_a * number_b
-    elif operation == '/':
-        return number_a / number_b
-    else:
-        return None
-
+def calculator(operation, a, b):
+    calc = {
+        '+': addition,
+        '-': subtract,
+        '*': multiply,
+        '/': division
+    }
+    return calc[operation](a, b)
 
 if __name__ == "__main__":
     print(art.logo)
@@ -33,4 +33,3 @@ if __name__ == "__main__":
             num_a = result
         else:
             finished = False
-
