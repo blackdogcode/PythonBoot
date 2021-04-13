@@ -2,8 +2,14 @@
 # Black Jack Site: https://games.washingtonpost.com/games/blackjack/
 import art
 
+import os
 import sys
 import random
+
+
+def clear():
+    os.system('cls' if os.name=='nt' else 'clear')
+
 
 ace = 11
 ten = 10
@@ -26,10 +32,11 @@ def cards_score(cards):
 
 
 if __name__ == "__main__":
+    print(art.logo)
     start = input(f'Do you want to play a game of Blackjack? Type "y" or "n"\n--> ')
     if start != 'y':
         sys.exit('Good Bye!')
-    print(art.logo)
+    clear()
 
     random.seed()
     player_cards = []
