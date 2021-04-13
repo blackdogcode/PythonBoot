@@ -101,6 +101,7 @@
 - [Garbage Collection in Python](https://www.geeksforgeeks.org/garbage-collection-python/)
 - [\_\_name\_\_(A Special variable)](https://t.ly/1Wiz)
 - [Shebang (Unix)](https://t.ly/BltR)
+- [How to Include Emojis in Your Python Code](https://t.ly/uxVY)
 
 
 ## Tips
