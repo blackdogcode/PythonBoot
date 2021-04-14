@@ -103,6 +103,7 @@
 - [\_\_name\_\_(A Special variable)](https://t.ly/1Wiz)
 - [Shebang (Unix)](https://t.ly/BltR)
 - [How to Include Emojis in Your Python Code](https://t.ly/uxVY)
+  - [Emoji List](https://t.ly/Si5U)
 
 
 ## Tips
