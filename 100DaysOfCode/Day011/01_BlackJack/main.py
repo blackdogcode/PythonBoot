@@ -5,10 +5,11 @@ import art
 import os
 import sys
 import random
+from emoji import emojize
 
 
 def clear():
-    os.system('cls' if os.name=='nt' else 'clear')
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 
 ace = 11
@@ -33,9 +34,10 @@ def cards_score(cards):
 
 if __name__ == "__main__":
     print(art.logo)
-    start = input(f'Do you want to play a game of Blackjack? Type "y" or "n"\n--> ')
+    start = input('Do you want to play a game of Blackjack? Type "y" or "n": ')
     if start != 'y':
-        sys.exit('Good Bye!')
+        print('Good Bye', emojize(":waving_hand:"))
+        sys.exit(0)
     clear()
 
     random.seed()
@@ -69,33 +71,33 @@ if __name__ == "__main__":
     print(f"Dealer's final hand: {dealer_cards}, final score: {dealer_score}")
     if player_score > 21:
         # If the player exceeds a sum of 21 ("busts"), the player loses, even if the dealer also exceeds 21.
-        print(f'You Busts 😤')
+        print('You Busts', emojize(":crying_face:"))
     elif dealer_score > 21:
         # If the dealer exceeds 21 ("busts") and the player does not, the player wins.
-        print(f'You win 😛')
+        print('You win', emojize(":grinning_face_with_smiling_eyes:"))
     elif player_score > dealer_score:
         # If the player attains a final sum higher than the dealer and does not bust, the player wins.
-        print(f'You win 😛')
+        print('You win', emojize(":grinning_face_with_smiling_eyes:"))
     elif player_score == dealer_score:
         if player_score == blackjack:
             # If the player is dealt an Ace and a ten-value card (called a "blackjack" or "natural")
             # and the dealer does not, the player wins and usually receives a bonus.
             if ace in player_cards and ten in player_cards:
                 if ace in dealer_cards and ten in dealer_cards:
-                    print(f'Push 🙃')
+                    print('Push', emojize(":neutral_face:"))
                 else:
-                    print(f'You win with a Blackjack 😎')
+                    print('You win with a Blackjack', emojize(":grinning_squinting_face:"))
             else:
                 if player_score == dealer_score:
                     # If both dealer and player receive a blackjack no one wins.
-                    print(f'Push 🙃')
+                    print('Push', emojize(":neutral_face:"))
                 else:
-                    print(f'You win with a Blackjack 😎')
+                    print('You win', emojize(":grinning_face_with_smiling_eyes:"))
         else:
             # If both dealer and player receive any other hands with the same sum called a "push", no one wins.
-            print(f'Push 🙃')
+            print('Push', emojize(":neutral_face:"))
     else:
         if dealer_score == blackjack:
-            print(f'Lose, dealer has Blackjack 😱')
+            print('Lose, dealer has Blackjack', emojize(":face_screaming_in_fear:"))
         else:
-            print(f'You lose 😤')
+            print('You lose', emojize(":loudly_crying_face:"))
