@@ -30,6 +30,7 @@
 - [Python Dictionary](https://t.ly/Hnp8)
 - [Python Sets](https://t.ly/05H3)
 - [Python Type Checking](https://t.ly/b1Mg)
+  - [Emoji Cheat Sheet](https://t.ly/3tAF)
 
 ---
 ### Control Flow
