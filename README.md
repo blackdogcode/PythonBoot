@@ -11,6 +11,7 @@
   - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
     - [Naming Guide](https://google.github.io/styleguide/pyguide.html#s3.16-naming)
 - [ASK Python](https://t.ly/jzVh)
+- [Visualize Code Execution](https://t.ly/XMOF)
 
 ## [Python 3](https://docs.python.org/3/)
 - [What Can I Do With Python?](https://t.ly/NgBb)
