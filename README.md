@@ -41,6 +41,7 @@
 
 ---
 ### [Functions](https://t.ly/snxT)
+- [Defining Your Own Python Function](https://t.ly/awTa)
 - [Defining Main Functions](https://t.ly/ttik)
   - [\_\_name\_\_(A Special variable)](https://t.ly/R9ZQ)
 - [Built-in Functions in Python](https://docs.python.org/3/library/functions.html)
