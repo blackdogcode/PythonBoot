@@ -23,18 +23,10 @@ if __name__ == "__main__":
         print(art.vs)
         print(f'{game_b["title"]}')
 
-        choice = {'A': game_a, 'B': game_b}
-        sel = input("Which one has more reviews? Type A or B\n--> ")
-        user_choice = None;
-        remain_one = None;
-        if sel == 'A':
-            user_choice = choice['A']
-            remain_one = choice['B']
-        else:
-            user_choice = choice['B']
-            remain_one = choice['A']
+        answer = 'A' if game_a['reviews'] >= game_b['reviews'] else 'B'
+        user_choice = input("Which one has more reviews? Type A or B\n--> ")
 
-        if user_choice['reviews'] >= remain_one['reviews']:
+        if user_choice == answer:
             game_score += 1
         else:
             print(f'False, Game Score is {game_score}')
