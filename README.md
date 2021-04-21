@@ -58,6 +58,8 @@
 
 ---
 ### [OOP - Object Oriented Programming](https://t.ly/qncE)
+- [Turtle Graphics](https://t.ly/qEM0)
+  - [Turtle Colors](https://t.ly/rRiN)
 - [Data Hiding and Object Printing](https://t.ly/QTdD)
   - [Private Variables in Python](https://t.ly/flme)
 - [Helper class](https://t.ly/XiXM)
