@@ -15,6 +15,7 @@
 - [Real Python - Python Basics Book Resources](https://t.ly/98y6)
 
 ## [Python 3](https://docs.python.org/3/)
+- [Introduction to Python 3](https://t.ly/8GWJ)
 - [What Can I Do With Python?](https://t.ly/NgBb)
 - [How to Run Your Python Scripts](https://t.ly/S60f)
   - [Most Pppular of Python Interpreters](https://t.ly/QM3E)
