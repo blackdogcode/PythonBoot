@@ -9,4 +9,4 @@ if __name__ == '__main__':
 
     bill_split = total_bill / num_of_people
     tip_split = total_bill * tip_percentage / 100 / num_of_people
-    print(f'Each person should pay: ${round(bill_split + tip_split, 2)}')
+    print(f'Each person should pay: ${round(bill_split + tip_split, 2):.2f}')
