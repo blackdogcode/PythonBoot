@@ -10,11 +10,10 @@ for _ in range(test_case):
     min_cost = float('inf')
     for i in range(N - L + 1):
         days = L
-        sum_cost = sum(daily_cost[i:i + L])
-        min_cost = sum_cost / days if min_cost > sum_cost / days else min_cost
-        for j in range(L + i, N):
-            days += 1
+        sum_cost = sum(daily_cost[i:i + L - 1])
+        for j in range(L + i - 1, N):
             sum_cost += daily_cost[j]
-            min_cost = sum_cost / days if min_cost > sum_cost / days else min_cost
-
-    print("%.8f" % min_cost)
+            avg_cost = sum_cost / days
+            min_cost = avg_cost if min_cost > avg_cost else min_cost
+            days += 1
+    print(min_cost)
