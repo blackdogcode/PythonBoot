@@ -1,3 +1,5 @@
+# 문제링크: https://www.acmicpc.net/problem/1725
+# 인풋 입력을 빠르게 입력받기 위해 아래 설정이 반드시 필요
 import sys
 input = sys.stdin.readline
 
