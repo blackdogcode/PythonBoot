@@ -114,3 +114,4 @@
 
 ## Tips
 - [system file removed after sudo apt-get remove python](https://t.ly/ZdMS)
+- [os.environ object](https://www.geeksforgeeks.org/python-os-environ-object/)
