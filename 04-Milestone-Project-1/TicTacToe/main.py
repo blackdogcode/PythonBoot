@@ -79,11 +79,7 @@ if __name__ == '__main__':
 
     player_color = {"A": "○", "B": "●"}
     player_turn = deque(["A", "B"])
-    count = 0
-    while True:
-        if count == (size ** 2):
-            print(f"Game is Draw")
-            break
+    for _ in range(size ** 2):
         player = player_turn.popleft()
         color = player_color[player]
         row, col = input_player_position(player, color, size)
@@ -93,4 +89,5 @@ if __name__ == '__main__':
             print(f'Player {player}, {color} win!')
             break
         player_turn.append(player)
-        count += 1
+    else:
+        print(f"Game is Draw")
