@@ -2,7 +2,7 @@ from collections import deque
 import re
 
 
-def display_board(board, size):
+def display_board(board: list, size: int):
     # print head line
     print("   ", end="")
     for col_idx in range(size):
@@ -17,7 +17,7 @@ def display_board(board, size):
         print("")
 
 
-def put_player_stone(board, size, player, stone):
+def put_player_stone(board: list, size: int, player: str, stone: str):
     while True:
         position = input(f"Player {player}({stone}) turn. Please input your stone position <row,col>, e.g - 1,2: ")
         position = re.split(' |,', position)
@@ -41,34 +41,30 @@ def win_check(board: list, size: int, color: str):
     for row in board:
         if row.count(color) == size:
             return True
-    # Vertical line
+    # vertical line
     cols = []
     for j in range(size):
         for i in range(size):
             cols.append(board[i][j])
         if cols.count(color) == size:
             return True
-        else:
-            cols.clear()
-    # Diagonal Line
-    # Left-Top to Right-Bottom
+        cols.clear()
+    # diagonal Line
+    # left-top to right-bottom
     diagonal = []
     for i in range(size):
         diagonal.append(board[i][i])
     if diagonal.count(color) == size:
         return True
-    else:
-        diagonal.clear()
-    # Left-Bottom to Right-Top
-    i, j = 2, 0
-    for _ in range(3):
+    diagonal.clear()
+    # left-bottom to right-top
+    i, j = size - 1, 0
+    for _ in range(size):
         diagonal.append(board[i][j])
         i -= 1
         j += 1
     if diagonal.count(color) == size:
         return True
-    else:
-        diagonal.clear()
 
     return False
 
@@ -78,7 +74,7 @@ if __name__ == '__main__':
     board_size = 3
     board = [[' '] * board_size for i in range(board_size)]
     display_board(board, board_size)
-
+    # start game
     player_stone = {"A": "○", "B": "●"}
     player_turn = deque(["A", "B"])
     for _ in range(board_size ** 2):
@@ -87,8 +83,8 @@ if __name__ == '__main__':
         put_player_stone(board, board_size, player, stone)
         display_board(board, board_size)
         if win_check(board, board_size, stone):
-            print(f'Player {player}, {stone} win!')
+            print(f'Player {player}({stone}) win!')
             break
         player_turn.append(player)
     else:
-        print(f"Game is Draw")
+        print(f"The game is draw")
