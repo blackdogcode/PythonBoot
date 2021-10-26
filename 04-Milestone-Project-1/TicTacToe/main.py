@@ -17,20 +17,23 @@ def display_board(board, size):
         print("")
 
 
-def input_player_position(player, color, size):
+def put_player_stone(board, size, player, stone):
     while True:
-        player_position = input(f"Your turn {player}, {color}. Please input your position(e.g. 1,2): ")
-        player_position = re.split(' |,', player_position)
-        print(player_position)
-        row, col = player_position
+        position = input(f"Player {player}({stone}) turn. Please input your stone position <row,col>, e.g - 1,2: ")
+        position = re.split(' |,', position)
+        row, col = position
         if not row.isdigit() or not col.isdigit():
-            print(f"{row} or {col} is not number: Please try again.")
-        elif int(row) > 2 or int(col) > 2:
-            print("The number is out of range. Please try again.")
-        else:
-            break
+            print(f"Invalid: {row} or {col} is not number. Please try again.")
+            continue
 
-    return int(row), int(col)
+        row, col = int(row), int(col)
+        if row >= size or col >= size:
+            print(f"Invalid: {row} or {col} is out of board size. Please try again.")
+        elif board[row][col] != " ":
+            print(f"Invalid: There is a already stone in that position")
+        else:
+            board[row][col] = stone
+            break
 
 
 def win_check(board: list, size: int, color: str):
@@ -76,16 +79,15 @@ if __name__ == '__main__':
     board = [[' '] * board_size for i in range(board_size)]
     display_board(board, board_size)
 
-    player_color = {"A": "○", "B": "●"}
+    player_stone = {"A": "○", "B": "●"}
     player_turn = deque(["A", "B"])
     for _ in range(board_size ** 2):
         player = player_turn.popleft()
-        color = player_color[player]
-        row, col = input_player_position(player, color, board_size)
-        board[row][col] = color
+        stone = player_stone[player]
+        put_player_stone(board, board_size, player, stone)
         display_board(board, board_size)
-        if win_check(board, board_size, color):
-            print(f'Player {player}, {color} win!')
+        if win_check(board, board_size, stone):
+            print(f'Player {player}, {stone} win!')
             break
         player_turn.append(player)
     else:
