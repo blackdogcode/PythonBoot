@@ -3,19 +3,18 @@ import re
 
 
 def display_board(board, size):
+    # print head line
     print("   ", end="")
-    for i in range(size):
-        print(f"| {i} ", end="")
-    else:
+    for col_idx in range(size):
+        print(f"| {col_idx} ", end="")
+    print("")
+    # print each row
+    for row_idx, row in enumerate(board):
+        print("-" * (5 * size))
+        print(f" {row_idx} ", end="")
+        for stone in row:
+            print(f"| {stone} ", end="")
         print("")
-
-    for i, row in enumerate(board):
-        print("---------------")
-        print(f" {i} ", end="")
-        for k in row:
-            print(f"| {k} ", end="")
-        else:
-            print("")
 
 
 def input_player_position(player, color, size):
@@ -73,19 +72,19 @@ def win_check(board: list, size: int, color: str):
 
 if __name__ == '__main__':
     # initialization
-    size = 3
-    board = [[' '] * size for i in range(size)]
-    display_board(board, size)
+    board_size = 3
+    board = [[' '] * board_size for i in range(board_size)]
+    display_board(board, board_size)
 
     player_color = {"A": "○", "B": "●"}
     player_turn = deque(["A", "B"])
-    for _ in range(size ** 2):
+    for _ in range(board_size ** 2):
         player = player_turn.popleft()
         color = player_color[player]
-        row, col = input_player_position(player, color, size)
+        row, col = input_player_position(player, color, board_size)
         board[row][col] = color
-        display_board(board, size)
-        if win_check(board, size, color):
+        display_board(board, board_size)
+        if win_check(board, board_size, color):
             print(f'Player {player}, {color} win!')
             break
         player_turn.append(player)
