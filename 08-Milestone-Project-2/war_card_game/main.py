@@ -1,7 +1,6 @@
 """
 What is War Card Game: https://en.wikipedia.org/wiki/War_(card_game)
 """
-import random
 from deck import *
 from player import *
 
@@ -11,7 +10,7 @@ if __name__ == '__main__':
 
     # The deck is divided evenly among the players
     deck = Deck()
-    random.shuffle(deck.cards)
+    deck.shuffle()
     for _ in range(int(len(deck) / 2)):
         player_a_deck.add_card(deck.pop_card())
         player_b_deck.add_card(deck.pop_card())
