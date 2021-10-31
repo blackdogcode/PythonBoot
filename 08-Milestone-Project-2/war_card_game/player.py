@@ -2,11 +2,11 @@ class Player:
     def __init__(self):
         self.cards = []
 
-    def add_card(self, card):
-        if isinstance(card, list):
-            self.cards.extend(card)
+    def add_card(self, cards):
+        if isinstance(cards, list):
+            self.cards.extend(cards)
         else:
-            self.cards.append(card)
+            self.cards.append(cards)
 
     def pop_card(self):
         try:
