@@ -36,6 +36,7 @@ if __name__ == '__main__':
 
         is_war = True
         while is_war:
+            # the player with the higher card takes both of the cards played and moves them to their stack.
             if player_a_cards[-1].value > player_b_cards[-1].value:
                 print(f"Player A win the round")
                 player_a_deck.add_card(player_a_cards)
@@ -47,10 +48,10 @@ if __name__ == '__main__':
                 player_b_deck.add_card(player_a_cards)
                 is_war = False
             else:
-                # If the two cards played are of equal value, then there is a "war".
-                # Both players place the next three cards face down and then another card face-up
+                # if the two cards played are of equal value, then there is a "war".
+                # both players place the next three cards face down and then another card face-up
                 is_war = True
-                print(f"War!")
+                print(f"WAR!")
                 for _ in range(3):
                     # if a player runs out of cards during a war, player immediately loses
                     if len(player_a_deck) == 0:
