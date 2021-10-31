@@ -19,10 +19,12 @@ if __name__ == '__main__':
     for round_count in range(1000):
         # check wining condition
         if len(player_a_deck) == 0:
+            print("Player A out of cards!")
             print("Player B win the game!")
             break
 
         if len(player_b_deck) == 0:
+            print("Player B out of cards!")
             print("Player A win the game!")
             break
 
